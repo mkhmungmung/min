@@ -1,0 +1,4 @@
+<Config>
+   <Player></Player>
+   <Level>5</Level>
+</Config>
